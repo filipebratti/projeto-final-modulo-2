@@ -42,6 +42,9 @@ SECRET_JWT =
 
 # executar o projeto
 npm run start:dev
+
+# criar migrations:
+npx sequelize-cli db:migrate
 ```
 # Como utilizar o sistema
 
